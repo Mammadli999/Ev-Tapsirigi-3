@@ -1,0 +1,15 @@
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.exe
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.deps.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.runtimeconfig.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.runtimeconfig.dev.json
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\ref\Ev Tapsirigi 3 -- Task 10.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\bin\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.AssemblyInfoInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.AssemblyInfo.cs
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.csproj.CoreCompileInputs.cache
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\ref\Ev Tapsirigi 3 -- Task 10.dll
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.pdb
+C:\Users\mamma\OneDrive\Masaüstü\Abbas's Code\Ev Tapsirigi 3 -- Task 1\Ev Tapsirigi 3 -- Task 10\obj\Debug\net5.0\Ev Tapsirigi 3 -- Task 10.genruntimeconfig.cache
